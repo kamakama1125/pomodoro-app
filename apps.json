@@ -12,26 +12,26 @@
       "tintColor": "FF2D55",
       "category": "productivity",
       "screenshotURLs": [],
-      "version": "1.3",
+      "version": "1.4",
       "versionDate": "2026-06-12",
-      "versionDescription": "アラームに「止める」ボタンを追加。手動で止めなければ10秒で自動停止。",
+      "versionDescription": "アプリアイコンを設定（時計デザイン）。",
       "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
-      "size": 379579,
+      "size": 1584043,
       "versions": [
+        {
+          "version": "1.4",
+          "date": "2026-06-12",
+          "localizedDescription": "アプリアイコンを設定（時計デザイン）。",
+          "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
+          "size": 1584043,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.3",
           "date": "2026-06-12",
           "localizedDescription": "アラームに「止める」ボタンを追加。手動で止めなければ10秒で自動停止。",
           "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
-          "size": 379579,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.2",
-          "date": "2026-06-12",
-          "localizedDescription": "集中・休憩それぞれの終了時にアラーム音が鳴るように。マナーモードでも鳴ります。",
-          "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
-          "size": 379579,
+          "size": 1584043,
           "minOSVersion": "17.0"
         }
       ],
