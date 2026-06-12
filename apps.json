@@ -1,5 +1,5 @@
 {
-  "name": "社長専用ポモドーロ",
+  "name": "社長専用アプリ",
   "identifier": "com.suzuki.pomodoro.source",
   "apps": [
     {
@@ -32,6 +32,36 @@
           "localizedDescription": "アプリアイコンを設定（時計デザイン）。",
           "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
           "size": 1588068,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "ひと呼吸",
+      "bundleIdentifier": "com.suzuki.hitokokyu",
+      "developerName": "AI Studio",
+      "subtitle": "スマホ依存対策・開く前に一呼吸",
+      "localizedDescription": "X・YouTube・Instagram・TikTokを無意識に開く癖をやわらげるアプリ。ショートカット自動化と組み合わせ、対象アプリを開いた瞬間に深呼吸の一拍を挟み、「やめておく/それでも開く」を選ばせます。思いとどまった回数を記録。設定→使い方の手順に沿ってショートカットを登録してください。",
+      "iconURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/icon.png",
+      "tintColor": "34C759",
+      "category": "lifestyle",
+      "screenshotURLs": [],
+      "version": "1.0",
+      "versionDate": "2026-06-12",
+      "versionDescription": "初回リリース。呼吸介入・やめた/開いた記録・クールダウンによるループ防止。",
+      "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/Hitokokyu.ipa",
+      "size": 99488,
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-06-12",
+          "localizedDescription": "初回リリース。呼吸介入・やめた/開いた記録・クールダウンによるループ防止。",
+          "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/Hitokokyu.ipa",
+          "size": 99488,
           "minOSVersion": "17.0"
         }
       ],
