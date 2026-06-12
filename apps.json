@@ -1,0 +1,37 @@
+{
+  "name": "社長専用ポモドーロ",
+  "identifier": "com.suzuki.pomodoro.source",
+  "apps": [
+    {
+      "name": "ポモドーロ",
+      "bundleIdentifier": "com.suzuki.pomodorotimer",
+      "developerName": "AI Studio",
+      "subtitle": "社長専用ポモドーロタイマー",
+      "localizedDescription": "集中→休憩を回す社長専用のポモドーロタイマー。バックグラウンド通知・タスク履歴・統計グラフ・時間カスタム対応。",
+      "iconURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/icon.png",
+      "tintColor": "FF2D55",
+      "category": "productivity",
+      "screenshotURLs": [],
+      "version": "1.1",
+      "versionDate": "2026-06-12",
+      "versionDescription": "横向き（ランドスケープ）対応を追加。",
+      "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
+      "size": 128334,
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2026-06-12",
+          "localizedDescription": "横向き（ランドスケープ）対応を追加。",
+          "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
+          "size": 128334,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
