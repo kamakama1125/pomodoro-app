@@ -7,31 +7,31 @@
       "bundleIdentifier": "com.suzuki.pomodorotimer",
       "developerName": "AI Studio",
       "subtitle": "社長専用ポモドーロタイマー",
-      "localizedDescription": "集中→休憩を回す社長専用のポモドーロタイマー。バックグラウンド通知・アラーム・タスク履歴・統計グラフ・時間カスタム・横向き対応。",
+      "localizedDescription": "集中→休憩を回す社長専用のポモドーロタイマー。バックグラウンド通知・アラーム・タスク履歴・統計グラフ・時間カスタム・横向き対応。アプリを終了しても続きから再開。",
       "iconURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/icon.png",
       "tintColor": "FF2D55",
       "category": "productivity",
       "screenshotURLs": [],
-      "version": "1.4",
+      "version": "1.5",
       "versionDate": "2026-06-12",
-      "versionDescription": "アプリアイコンを設定（時計デザイン）。",
+      "versionDescription": "アプリを誤って終了してもタイマーがリセットされず、続きから再開するように。",
       "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
-      "size": 1584043,
+      "size": 1588068,
       "versions": [
+        {
+          "version": "1.5",
+          "date": "2026-06-12",
+          "localizedDescription": "アプリを誤って終了してもタイマーがリセットされず、続きから再開するように。",
+          "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
+          "size": 1588068,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.4",
           "date": "2026-06-12",
           "localizedDescription": "アプリアイコンを設定（時計デザイン）。",
           "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
-          "size": 1584043,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.3",
-          "date": "2026-06-12",
-          "localizedDescription": "アラームに「止める」ボタンを追加。手動で止めなければ10秒で自動停止。",
-          "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
-          "size": 1584043,
+          "size": 1588068,
           "minOSVersion": "17.0"
         }
       ],
