@@ -12,12 +12,20 @@
       "tintColor": "FF2D55",
       "category": "productivity",
       "screenshotURLs": [],
-      "version": "1.7",
+      "version": "1.8",
       "versionDate": "2026-06-13",
-      "versionDescription": "統計グラフのバーをタップすると日別の集中記録（タスク名・カテゴリ・分数）を確認できるように。メイン画面「今日◯ポモ」のカウントが実際の完了数と一致するよう修正。",
+      "versionDescription": "休憩スキップ時に元の休憩終了タイミングでアラームが鳴る問題を修正。スキップ直後に通知をIDで即時キャンセルするよう変更。",
       "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
-      "size": 1624893,
+      "size": 1625049,
       "versions": [
+        {
+          "version": "1.8",
+          "date": "2026-06-13",
+          "localizedDescription": "休憩スキップ時に元の休憩終了タイミングでアラームが鳴る問題を修正。スキップ直後に通知をIDで即時キャンセルするよう変更。",
+          "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
+          "size": 1625049,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.7",
           "date": "2026-06-13",
