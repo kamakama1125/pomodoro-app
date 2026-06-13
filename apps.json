@@ -16,14 +16,14 @@
       "versionDate": "2026-06-13",
       "versionDescription": "統計グラフのバーをタップすると日別の集中記録（タスク名・カテゴリ・分数）を確認できるように。メイン画面「今日◯ポモ」のカウントが実際の完了数と一致するよう修正。",
       "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
-      "size": 1624891,
+      "size": 1624893,
       "versions": [
         {
           "version": "1.7",
           "date": "2026-06-13",
           "localizedDescription": "統計グラフのバーをタップすると日別の集中記録（タスク名・カテゴリ・分数）を確認できるように。メイン画面「今日◯ポモ」のカウントが実際の完了数と一致するよう修正。",
           "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
-          "size": 1624891,
+          "size": 1624893,
           "minOSVersion": "17.0"
         },
         {
