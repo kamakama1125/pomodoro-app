@@ -12,12 +12,20 @@
       "tintColor": "FF2D55",
       "category": "productivity",
       "screenshotURLs": [],
-      "version": "1.8",
-      "versionDate": "2026-06-13",
-      "versionDescription": "休憩スキップ時に元の休憩終了タイミングでアラームが鳴る問題を修正。スキップ直後に通知をIDで即時キャンセルするよう変更。",
+      "version": "1.9",
+      "versionDate": "2026-06-14",
+      "versionDescription": "設定で1日の目標集中時間を設定できるように。統計画面に円形プログレスリング＋達成率メーターを追加。達成すると緑色に変化。",
       "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
-      "size": 1625049,
+      "size": 1637826,
       "versions": [
+        {
+          "version": "1.9",
+          "date": "2026-06-14",
+          "localizedDescription": "設定で1日の目標集中時間を設定できるように。統計画面に円形プログレスリング＋達成率メーターを追加。達成すると緑色に変化。",
+          "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
+          "size": 1637826,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.8",
           "date": "2026-06-13",
