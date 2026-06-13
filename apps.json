@@ -12,12 +12,20 @@
       "tintColor": "FF2D55",
       "category": "productivity",
       "screenshotURLs": [],
-      "version": "1.6",
-      "versionDate": "2026-06-12",
-      "versionDescription": "作業カテゴリ選択機能を追加（動画編集・台本・SNS・リサーチ・その他）。統計画面でカテゴリ別の内訳を確認できる。",
+      "version": "1.7",
+      "versionDate": "2026-06-13",
+      "versionDescription": "統計グラフのバーをタップすると日別の集中記録（タスク名・カテゴリ・分数）を確認できるように。メイン画面「今日◯ポモ」のカウントが実際の完了数と一致するよう修正。",
       "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
-      "size": 1609970,
+      "size": 1624891,
       "versions": [
+        {
+          "version": "1.7",
+          "date": "2026-06-13",
+          "localizedDescription": "統計グラフのバーをタップすると日別の集中記録（タスク名・カテゴリ・分数）を確認できるように。メイン画面「今日◯ポモ」のカウントが実際の完了数と一致するよう修正。",
+          "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
+          "size": 1624891,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.6",
           "date": "2026-06-12",
