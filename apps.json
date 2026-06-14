@@ -12,12 +12,20 @@
       "tintColor": "FF2D55",
       "category": "productivity",
       "screenshotURLs": [],
-      "version": "1.9",
+      "version": "2.0",
       "versionDate": "2026-06-14",
-      "versionDescription": "設定で1日の目標集中時間を設定できるように。統計画面に円形プログレスリング＋達成率メーターを追加。達成すると緑色に変化。",
+      "versionDescription": "バックグラウンドで通知が鳴った後にアプリを開くとアラームが二重に鳴る問題を修正。集中タイムを途中で切り上げると経過分を累計に記録できるように。",
       "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
-      "size": 1637826,
+      "size": 1577031,
       "versions": [
+        {
+          "version": "2.0",
+          "date": "2026-06-14",
+          "localizedDescription": "バックグラウンドで通知が鳴った後にアプリを開くとアラームが二重に鳴る問題を修正。集中タイムを途中で切り上げると経過分を累計に記録できるように。",
+          "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
+          "size": 1577031,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.9",
           "date": "2026-06-14",
