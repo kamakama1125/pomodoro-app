@@ -12,12 +12,20 @@
       "tintColor": "FF2D55",
       "category": "productivity",
       "screenshotURLs": [],
-      "version": "2.0",
+      "version": "2.1",
       "versionDate": "2026-06-14",
-      "versionDescription": "バックグラウンドで通知が鳴った後にアプリを開くとアラームが二重に鳴る問題を修正。集中タイムを途中で切り上げると経過分を累計に記録できるように。",
+      "versionDescription": "目標集中時間を曜日ごとに設定できるように。平日2時間・土日30分など柔軟な設定が可能。",
       "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
-      "size": 1577031,
+      "size": 1579955,
       "versions": [
+        {
+          "version": "2.1",
+          "date": "2026-06-14",
+          "localizedDescription": "目標集中時間を曜日ごとに設定できるように。平日2時間・土日30分など柔軟な設定が可能。",
+          "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
+          "size": 1579955,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "2.0",
           "date": "2026-06-14",
