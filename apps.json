@@ -12,12 +12,20 @@
       "tintColor": "FF2D55",
       "category": "productivity",
       "screenshotURLs": [],
-      "version": "2.1",
-      "versionDate": "2026-06-14",
-      "versionDescription": "目標集中時間を曜日ごとに設定できるように。平日2時間・土日30分など柔軟な設定が可能。",
+      "version": "2.2",
+      "versionDate": "2026-06-18",
+      "versionDescription": "集中サウンド機能追加。雨音＋ブラウンノイズをミックスして集中フェーズ中だけ自動再生。スライダーで各音量を個別調整できる。",
       "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
-      "size": 1579955,
+      "size": 6256365,
       "versions": [
+        {
+          "version": "2.2",
+          "date": "2026-06-18",
+          "localizedDescription": "集中サウンド機能追加。雨音＋ブラウンノイズをミックスして集中フェーズ中だけ自動再生。スライダーで各音量を個別調整できる。",
+          "downloadURL": "https://raw.githubusercontent.com/kamakama1125/pomodoro-app/main/PomodoroTimer.ipa",
+          "size": 6256365,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "2.1",
           "date": "2026-06-14",
